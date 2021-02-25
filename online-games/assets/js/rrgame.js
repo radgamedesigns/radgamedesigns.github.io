@@ -16,36 +16,3 @@ function BkgWhite() {
     document.body.style.backgroundColor = bgcolor;
     gameInstance.SendMessage('SquareRoundedCorners', 'WebSetBkg', bgcolor);
 }
-
-function ConversionLead(title, platform) {
-  var dataObject = {
-    'event': 'conversion_lead',
-    'category': title,
-    'label': platform
-  };
-  if(typeof dataLayer != 'undefined'){
-    dataLayer.push(dataObject);
-  }
-}
-
-function ConversionRegistration(title, platform) {
-  var dataObject = {
-    'event': 'conversion_registration',
-    'category': title,
-    'label': platform
-  };
-  if(typeof dataLayer != 'undefined'){
-    dataLayer.push(dataObject);
-  }
-}
-
-function CompletedTutorial(title, platform) {
-  var dataObject = {
-    'event': 'conversion_tutorial',
-    'category': title,
-    'label': platform
-  };
-  if(typeof dataLayer != 'undefined'){
-    dataLayer.push(dataObject);
-  }
-}
