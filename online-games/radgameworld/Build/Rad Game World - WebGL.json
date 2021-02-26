@@ -1,0 +1,15 @@
+{
+"companyName": "Rad Game Designs",
+"productName": "Rad Game World",
+"productVersion": "1.7",
+"dataUrl": "Rad Game World - WebGL.data.unityweb",
+"wasmCodeUrl": "Rad Game World - WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Rad Game World - WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
