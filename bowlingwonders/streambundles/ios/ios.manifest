@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 764018560
+CRC: 2495050373
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: bowling-alley-base.unity3d
+      Name: generic-bowling-alley.unity3d
       Dependencies: {}
