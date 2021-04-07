@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4232680475
+CRC: 1570462980
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f5df83bc78b51b74f51775dedbd27341
+    Hash: dc7c8cad6c3635010ad6008ad6b1eadc
   TypeTreeHash:
     serializedVersion: 2
     Hash: a2c9cea72441ec50ebc7445869263b64
@@ -51,5 +51,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AppBowling/3DAssetBundles/Resources/brooklyn-bridge-bowling.prefab
+- Assets/AppBowling/3DAssetBundles/brooklyn-bridge-bowling.prefab
 Dependencies: []
