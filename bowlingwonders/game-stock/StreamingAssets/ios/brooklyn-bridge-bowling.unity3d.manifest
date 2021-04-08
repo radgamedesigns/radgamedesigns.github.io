@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1628463408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a266e20453b60fce40048dc4745e84e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a2c9cea72441ec50ebc7445869263b64
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dec5199b6ef8344b1902cbc3b7f461de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 725ac6b48eff84937be8428e02601563, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5993fe9fdb54b43ee8b02851227d6043, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5acc68a2ecf98824ba3f8fa739c53028, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0967fb47c62254db1ad4cd58a966672b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AppBowling/3DAssetBundles/Resources/brooklyn-bridge-bowling.prefab
+Dependencies: []
