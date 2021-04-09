@@ -1,13 +1,16 @@
 ManifestFileVersion: 0
-CRC: 725419636
+CRC: 136994938
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: brooklyn-bridge-bowling.unity3d
+      Name: classic-bowling-alley.unity3d
       Dependencies: {}
     Info_1:
-      Name: generic-bowling-alley.unity3d
+      Name: brooklyn-bridge-bowling.unity3d
       Dependencies: {}
     Info_2:
-      Name: classic-bowling-alley.unity3d
+      Name: generic-bowling-alley.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: buddha-bowling-lane.unity3d
       Dependencies: {}

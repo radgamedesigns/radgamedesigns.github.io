@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 925481382
+CRC: 615152754
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -53,5 +53,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AppBowling/3DAssetBundles/Resources/classic-bowling-alley.prefab
+- Assets/AppBowling/3DAssetBundles/classic-bowling-alley.prefab
 Dependencies: []

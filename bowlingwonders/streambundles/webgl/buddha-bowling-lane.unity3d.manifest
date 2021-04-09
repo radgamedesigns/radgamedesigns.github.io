@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1480797811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08656d65be3b70a860400afaaab78169
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3a325ad8a38b8f6cae53f1d2c57ee581
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dec5199b6ef8344b1902cbc3b7f461de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5acc68a2ecf98824ba3f8fa739c53028, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0967fb47c62254db1ad4cd58a966672b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AppBowling/3DAssetBundles/buddha-bowling-lane.prefab
+Dependencies: []
