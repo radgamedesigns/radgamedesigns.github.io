@@ -1,0 +1,132 @@
+ManifestFileVersion: 0
+CRC: 170087069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36c0b829b7f7afcb41c775277446719e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbff2b06f5944fa58c80e882ed53bdc9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3f6f3f7c722b4544b97e3c75840aa33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d65e486e4de6e5448a8fbb43dc8756a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b77c5407dc277943b591ade9e6b18c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Terrain
+  Texture/1/TexturesCom_Pavement_CobblestoneMedieval04_5x5_1K_albedo.tif
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Garden_Gate/Garden_gate_Normal_OpenGL.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Cliff/Cliff_Roughness.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Combined_Trees/Tree_Bamboo/Tree_Bamboo_1.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Cliff/Cliff_Gray.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Buddha_Statue/Buddha__Mixed_AO.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Stones/Medium_Stone/Medium_Stone_2.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Materials/Brick.mat
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Buddha_Statue/Buddha__Normal_OpenGL.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Tree_Textures/Tree_Bamboo/Tree_Bamboo_Mixed_AO.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Garden_Gate/Garden_gate_Roughness.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Foilage/Grass/Soil_Ground.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Stones/Medium_Stone/Medium_Stone_Gray_Base_Color.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Tree_Textures/Tree_Bamboo/Tree_Bamboo_Spring.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Post_Processing_Profile/Buddha_Bowling.asset
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Stones/Medium_Stone/Medium_Stone_3.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Buddha_Statue/Buddha__Roughness.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Buddha_Statue.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Stones/Medium_Stone/Medium_Stone_Roughness.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Foilage/Grass/Billboard/Billboard_Grass_B_Diffuse.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Tree_Textures/Tree_Bamboo/Tree_Bamboo_Normal_OpenGL.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Buddha_Statue/Buddha__Height.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Stones/Medium_Stone/Medium_Stone_A_Gray/Medium_Stone_A_Gray_1.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Materials/Brick 1.mat
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/HDRI_Sky/Blue
+  sky.mat
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Terrain/Buddha bowling terrain.asset
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Terrain_layers/Grass_ground_layer.terrainlayer
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Terrain
+  Texture/1/TexturesCom_Pavement_CobblestoneMedieval04_5x5_1K_normal.tif
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/HDRI_Sky/Blue
+  sky.hdr
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Cliff/Cliff_Mixed_AO.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Combined_Trees/Tree_Bamboo/Tree_Bamboo_Stump_2.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Garden_Gate/Garden_Gate.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Combined_Trees/Tree_Bamboo/Tree_Bamboo_Stump_1.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Stones/Medium_Stone/Medium_Stone_4.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Stones/Medium_Stone/Medium_Stone_A_Gray/Medium_Stone_A_Gray_4.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Materials/Statue/Buddha_Statue.mat
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Stones/Medium_Stone/Medium_Stone_A_Gray/Medium_Stone_A_Gray_3.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Garden_Gate/Garden_gate_Mixed_AO.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Buddha Lighting Settings.lighting
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Stones/Medium_Stone/Medium_Stone_Mixed_AO.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Models/Brick_Cube.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Materials/Cliff/Cliff_Gray.mat
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Buddha_Statue/Buddha__Base_Color.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Cliff/Cliff_Height.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Stones/Medium_Stone/Medium_Stone_Normal_OpenGL.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Combined_Trees/Tree_Bamboo/Tree_Bamboo_Stump_2.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Garden_Gate/Gardent_Gate.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Prefab/Tile_Cube.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Garden_Gate/Garden_gate_Base_Color.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Tree_Textures/Tree_Bamboo/Tree_Bamboo_Roughnes.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Combined_Trees/Tree_Bamboo/Tree_Bamboo_Spring_1.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Materials/Stones/Medium_Stone/Medium_Stone_Gray.mat
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Terrain_layers/Soil_ground_layer.terrainlayer
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Cliff/Cliff_Gray_Base_Color.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Materials/Trees/Tree_Bamboo_Mat/Tree_Bamboo_Spring.mat
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Prefab/Stones/Medium_Stone/Medium_Stone_A_Gray/Medium_Stone_A_Gray_2.prefab
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Materials/Garden_Gate/Garden_Gate.mat
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Cliff/Cliff_Normal_OpenGL.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Combined_Trees/Tree_Bamboo/Tree_Bamboo_Stump_1.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Stones/Cliff/Cliff.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Foilage/Grass/Billboard/Billboard_Grass_E_Diffuse.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Stones/Medium_Stone/Medium_Stone_1.fbx
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Textures/Foilage/Grass/Grass_Ground_A.png
+- Assets/AppBowling/3DNewAlleys/Bowling Buddha/Stylized Nature Pack/Art/Models/Statue/Buddha_Statue.obj
+Dependencies: []
