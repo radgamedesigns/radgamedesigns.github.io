@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2384080638
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bowling-alley-stock
+      Dependencies: {}
